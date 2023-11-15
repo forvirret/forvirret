@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @forvirret
 - 👀 I’m interested in helping you
 - 🌱 I’m currently learning stuff
-- 💞️ I’m looking to collaborate on everyone
+- 💞️ I’m looking to collaborate with everyone
 - 📫 How to reach me: gm_toolbox@equinor.com
 
 <!---
